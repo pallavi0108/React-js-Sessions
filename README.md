@@ -1,2 +1,2 @@
-# project-one
-this is a practice project about git-hub.
+# React-js Beginner
+this is a practice project about react-js.
